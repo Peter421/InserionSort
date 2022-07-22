@@ -1,0 +1,5 @@
+RemoteControlTest.class
+SimpleRemoteControl.class
+Command.class
+Light.class
+LightOnCommand.class
